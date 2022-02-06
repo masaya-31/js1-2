@@ -1,0 +1,22 @@
+#timer {
+  font-size: 45px;
+  margin-left: 30px;
+}
+
+#buttons {
+  margin-top: 40px;
+}
+
+#start {
+  padding: 15px;
+  margin-right: 5px;
+}
+
+#stop {
+  padding: 15px;
+  margin-right: 5px;
+}
+
+#reset {
+  padding: 15px;
+}
